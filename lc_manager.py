@@ -70,7 +70,7 @@ def generate_readme():
     cursor.execute("Select id, name, difficulty, topic, date_added FROM solutions ORDER BY topic, id")
     rows=cursor.fetchall()
     conn.close()
-    md_content = "#LeetCode Tracker\n\n"
+    md_content = "LeetCode Tracker\n\n"
     md_content += "A personal repository containing my solutions to various algorithmic problems. "
     md_content += "This entire workspace, including the table below, is generated and maintained automatically via a custom Python CLI tool.\n\n"
 

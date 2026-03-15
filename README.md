@@ -1,6 +1,7 @@
-#LeetCode Tracker
+LeetCode Tracker
 
 A personal repository containing my solutions to various algorithmic problems. This entire workspace, including the table below, is generated and maintained automatically via a custom Python CLI tool.
 
 | ID | Problem | Topic | Difficulty | Date Solved |
 |---|---|---|---|---|
+| 1 | [Merge Two Sorted Lists][./linked_list/merge_two_sorted_lists/solution.py] | linked_list | easy | 2026-03-15 19:51:10 |
