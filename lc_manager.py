@@ -84,7 +84,7 @@ def generate_readme():
         topic_folder=topic.lower().replace(" ","_").replace("-","_")
         path=f"./{topic_folder}/{folder_name}/solution.py"
 
-        md_content += f"| {task_id} | [{name}][{path}] | {topic} | {difficulty} | {date_added} |\n"
+        md_content += f"| {task_id} | [{name}]({path}) | {topic} | {difficulty} | {date_added} |\n"
 
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(md_content)
