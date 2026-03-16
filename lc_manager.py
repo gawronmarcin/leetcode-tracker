@@ -107,7 +107,7 @@ def main():
     if args.command == "add":
         print("--- New Task Received --")
         print(f"Name: {args.name}")
-        print(f"Dificulty: {args.difficulty}")
+        print(f"Difficulty: {args.difficulty}")
         print(f"Topic: {args.topic}")
 
         add_solution_to_db(args.name,args.difficulty,args.topic)
