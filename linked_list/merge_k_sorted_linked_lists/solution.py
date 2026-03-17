@@ -5,8 +5,20 @@ class ListNode:
         self.val = val
         self.next = next
 
-class Solution:
+"""
+Task:
+You are given an array of k linked lists lists, where each list is sorted in ascending order.
 
+Return the sorted linked list that is the result of merging all of the individual linked lists.
+
+Approach: Divide and Conquer
+---------------------------
+This solution uses a recursive merge strategy similar to Merge Sort. 
+By splitting the list of K linked lists into halves, we reduce the 
+number of merge operations, achieving a time complexity of O(N log k), 
+where N is the total number of nodes and k is the number of lists.
+"""
+class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
         def merge_two(p, q):
             head = ListNode()
@@ -32,7 +44,9 @@ class Solution:
             if r-p==1:
                 return A[p]
             q=(p+r)//2
-            merge_rec(A,p,q)
-            merge_rec(A,q,r)
-            return merge_two(A[p],A[q])
+            left=merge_rec(A,p,q)
+            right=merge_rec(A,q,r)
+            return merge_two(left,right)
+        if not lists:
+            return None
         return merge_rec(lists,0,len(lists))
