@@ -5,5 +5,6 @@ A personal repository containing my solutions to various algorithmic problems. T
 | ID | Problem | Topic | Difficulty | Date Solved |
 |---|---|---|---|---|
 | 2 | [1. Lexicographical leader](./agh_algorithms_data_structures_offline_tasks/1._lexicographical_leader/solution.py) | AGH_algorithms_data_structures_offline_tasks | medium | 2026-03-16 08:18:29 |
+| 4 | [Kth Largest Element](./heap_priority_queue/kth_largest_element/solution.py) | heap_priority_queue | medium | 2026-03-20 19:20:31 |
 | 1 | [Merge Two Sorted Lists](./linked_list/merge_two_sorted_lists/solution.py) | linked_list | easy | 2026-03-15 19:51:10 |
 | 3 | [Merge K Sorted Linked Lists](./linked_list/merge_k_sorted_linked_lists/solution.py) | linked_list | hard | 2026-03-16 17:24:14 |
