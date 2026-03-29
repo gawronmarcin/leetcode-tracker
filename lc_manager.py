@@ -67,7 +67,7 @@ assert sol.solve()==None
 def generate_readme():
     conn=sqlite3.connect(DB_NAME)
     cursor=conn.cursor()
-    cursor.execute("Select id, name, difficulty, topic, date_added FROM solutions ORDER BY topic, id")
+    cursor.execute("Select id, name, difficulty, topic, date_added FROM solutions ORDER BY id")
     rows=cursor.fetchall()
     conn.close()
     md_content = "LeetCode Tracker\n\n"
