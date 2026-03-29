@@ -5,8 +5,7 @@ A personal repository containing my solutions to various algorithmic problems. T
 | ID | Problem | Topic | Difficulty | Date Solved |
 |---|---|---|---|---|
 | 2 | [1. Lexicographical leader](./agh_algorithms_data_structures_offline_tasks/1._lexicographical_leader/solution.py) | AGH_algorithms_data_structures_offline_tasks | medium | 2026-03-16 08:18:29 |
-| 6 | [intervals on highway](./agh_algorithms_data_structures_offline_tasks/intervals_on_highway/solution.py) | agh_algorithms_data_structures_offline_tasks | medium | 2026-03-27 13:24:43 |
-| 0 | [intervals on highway](./agh_algorithms_data_strucutes_offline_tasks/intervals_on_highway/solution.py) | agh_algorithms_data_strucutes_offline_tasks | medium | 2026-03-27 13:24:31 |
+| 7 | [2. intervals on highway](./agh_algorithms_data_structures_offline_tasks/2_intervals_on_highway/solution.py) | agh_algorithms_data_structures_offline_tasks | medium | 2026-03-27 13:24:43 |
 | 4 | [Kth Largest Element](./heap_priority_queue/kth_largest_element/solution.py) | heap_priority_queue | medium | 2026-03-20 19:20:31 |
 | 5 | [merge intervals](./intervals/merge_intervals/solution.py) | intervals | medium | 2026-03-25 12:10:44 |
 | 8 | [Minimum interval including query](./intervals/minimum_interval_including_query/solution.py) | intervals | hard | 2026-03-30 00:22:02 |
