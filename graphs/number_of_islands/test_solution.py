@@ -1,42 +1,31 @@
 import pytest
 from solution import Solution
 
-
-def test_numIslands():
+def test_kClosest_single_point():
     sol = Solution()
+    points = [[1, 3], [-2, 2]]
+    k = 1
+    expected = [[-2, 2]]
+    # Używamy sorted(), bo kolejność wyników nie ma znaczenia
+    assert sorted(sol.kClosest(points, k)) == sorted(expected)
 
-    grid1 = [
-        ["1", "1", "1", "1", "0"],
-        ["1", "1", "0", "1", "0"],
-        ["1", "1", "0", "0", "0"],
-        ["0", "0", "0", "0", "0"]
-    ]
-    assert sol.numIslands(grid1) == 1
+def test_kClosest_multiple_points():
+    sol = Solution()
+    points = [[3, 3], [5, -1], [-2, 4]]
+    k = 2
+    expected = [[3, 3], [-2, 4]]
+    assert sorted(sol.kClosest(points, k)) == sorted(expected)
 
-    grid2 = [
-        ["1", "1", "0", "0", "0"],
-        ["1", "1", "0", "0", "0"],
-        ["0", "0", "1", "0", "0"],
-        ["0", "0", "0", "1", "1"]
-    ]
-    assert sol.numIslands(grid2) == 3
+def test_kClosest_all_points():
+    sol = Solution()
+    points = [[1, 0], [0, 1], [-1, 0], [0, -1]]
+    k = 4
+    expected = [[1, 0], [0, 1], [-1, 0], [0, -1]]
+    assert sorted(sol.kClosest(points, k)) == sorted(expected)
 
-    grid3 = [
-        ["0", "0", "0"],
-        ["0", "0", "0"],
-        ["0", "0", "0"]
-    ]
-    assert sol.numIslands(grid3) == 0
-
-    grid4 = [
-        ["1", "1"],
-        ["1", "1"]
-    ]
-    assert sol.numIslands(grid4) == 1
-
-    grid5 = [
-        ["1", "0", "1"],
-        ["0", "1", "0"],
-        ["1", "0", "1"]
-    ]
-    assert sol.numIslands(grid5) == 5
+def test_kClosest_origin_included():
+    sol = Solution()
+    points = [[1, 3], [-2, 2], [0, 0]]
+    k = 2
+    expected = [[0, 0], [-2, 2]]
+    assert sorted(sol.kClosest(points, k)) == sorted(expected)

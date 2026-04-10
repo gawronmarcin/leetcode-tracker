@@ -14,3 +14,4 @@ A personal repository containing my solutions to various algorithmic problems. T
 | 8 | [Minimum interval including query](./intervals/minimum_interval_including_query/solution.py) | intervals | hard | 2026-03-30 00:22:02 |
 | 10 | [3. Kth largests](./agh_algorithms_data_structures_offline_tasks/3._kth_largests/solution.py) | agh_algorithms_data_structures_offline_tasks | medium | 2026-03-31 14:00:23 |
 | 11 | [Number of Islands](./graphs/number_of_islands/solution.py) | graphs | medium | 2026-04-10 17:04:44 |
+| 12 | [K closest points to origin](./heap_priority_queue/k_closest_points_to_origin/solution.py) | heap_priority_queue | medium | 2026-04-10 17:15:07 |
