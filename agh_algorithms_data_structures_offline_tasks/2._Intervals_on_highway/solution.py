@@ -11,12 +11,12 @@ increases by 1 mm. Where is the most snow?
 
 Algorithm: Sweep-line 
 Instead of iterating over every single kilometer (which is too slow for large T),
-we only track the exact points where the snow depth changes.
-1. For each snowfall [a, b], we add an event at 'a' (+1 snow) and at 'b + 1' (-1 snow).
+I only track the exact points where the snow depth changes.
+1. For each snowfall [a, b], I add an event at 'a' (+1 snow) and at 'b + 1' (-1 snow).
    The '+1' shift is crucial because the interval is closed, so snow still lies at 'b'.
-2. We sort all events from left to right.
-3. We sweep through the sorted list, keeping a running sum of the snow thickness.
-   Whenever it increases, we check if it's a new record and save the position.
+2. I sort all events from left to right.
+3. I sweep through the sorted list, keeping a running sum of the snow thickness.
+   Whenever it increases, I check if it's a new record and save the position.
 """
 
 

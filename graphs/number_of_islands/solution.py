@@ -7,8 +7,8 @@ class Solution:
     You may assume water is surrounding the grid (i.e., all the edges are water).
 
     Approach: Depth-First Search (DFS)
-    We iterate through the grid, and for every piece of land ("1") we find,
-    we increment the island count and trigger a DFS.
+    I iterate through the grid, and for every piece of land ("1") I find,
+    I increment the island count and trigger a DFS.
     The DFS explores all connected land horizontally and vertically,
     sinking it (changing "1" to "0") in-place to avoid using an extra 'visited' set.
     This optimizes auxiliary space complexity to O(1).
