@@ -10,7 +10,7 @@ A personal repository containing my solutions to various algorithmic problems. T
 | 3 | [Merge K Sorted Linked Lists](./linked_list/merge_k_sorted_linked_lists/solution.py) | linked_list | hard | 2026-03-16 17:24:14 |
 | 4 | [Kth Largest Element](./heap_priority_queue/kth_largest_element/solution.py) | heap_priority_queue | medium | 2026-03-20 19:20:31 |
 | 5 | [merge intervals](./intervals/merge_intervals/solution.py) | intervals | medium | 2026-03-25 12:10:44 |
-| 6 | [intervals on highway](./agh_algorithms_data_structures_offline_tasks/intervals_on_highway/solution.py) | agh_algorithms_data_structures_offline_tasks | medium | 2026-03-27 13:24:43 |
+| 6 | [intervals on highway](./agh_algorithms_data_structures_offline_tasks/2._intervals_on_highway/solution.py) | agh_algorithms_data_structures_offline_tasks | medium | 2026-03-27 13:24:43 |
 | 8 | [Minimum interval including query](./intervals/minimum_interval_including_query/solution.py) | intervals | hard | 2026-03-30 00:22:02 |
 | 10 | [3. Kth largests](./agh_algorithms_data_structures_offline_tasks/3._kth_largests/solution.py) | agh_algorithms_data_structures_offline_tasks | medium | 2026-03-31 14:00:23 |
 | 11 | [Number of Islands](./graphs/number_of_islands/solution.py) | graphs | medium | 2026-04-10 17:04:44 |
