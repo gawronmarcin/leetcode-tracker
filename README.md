@@ -17,3 +17,4 @@ A personal repository containing my solutions to various algorithmic problems. T
 | 10 | [Max Area of Island](./graphs/max_area_of_island/solution.py) | graphs | medium | 2026-04-12 12:33:50 |
 | 11 | [Clone graph](./graphs/clone_graph/solution.py) | graphs | medium | 2026-04-13 21:53:32 |
 | 15 | [Islands and Treasure](./graphs/islands_and_treasure/solution.py) | graphs | medium | 2026-04-15 18:01:45 |
+| 16 | [Rotting fruit](./graphs/rotting_fruit/solution.py) | graphs | medium | 2026-04-16 20:14:17 |
