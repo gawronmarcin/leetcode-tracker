@@ -19,3 +19,4 @@ A personal repository containing my solutions to various algorithmic problems. T
 | 15 | [Islands and Treasure](./graphs/islands_and_treasure/solution.py) | graphs | medium | 2026-04-15 18:01:45 |
 | 16 | [Rotting fruit](./graphs/rotting_fruit/solution.py) | graphs | medium | 2026-04-16 20:14:17 |
 | 17 | [Pacific Atlantic Water Flow](./graphs/pacific_atlantic_water_flow/solution.py) | graphs | medium | 2026-04-18 09:09:48 |
+| 18 | [Surrounded Regions](./graphs/surrounded_regions/solution.py) | graphs | medium | 2026-04-19 23:48:25 |
