@@ -20,3 +20,5 @@ A personal repository containing my solutions to various algorithmic problems. T
 | 16 | [Rotting fruit](./graphs/rotting_fruit/solution.py) | graphs | medium | 2026-04-16 20:14:17 |
 | 17 | [Pacific Atlantic Water Flow](./graphs/pacific_atlantic_water_flow/solution.py) | graphs | medium | 2026-04-18 09:09:48 |
 | 18 | [Surrounded Regions](./graphs/surrounded_regions/solution.py) | graphs | medium | 2026-04-19 23:48:25 |
+| 19 | [Course Schedule](./graphs/course_schedule/solution.py) | graphs | medium | 2026-04-21 01:51:30 |
+| 20 | [4. Hiking Dog](./agh_algorithms_data_structures_offline_tasks/4._hiking_dog/solution.py) | agh_algorithms_data_structures_offline_tasks | medium | 2026-04-22 01:37:10 |
