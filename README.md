@@ -27,3 +27,4 @@ A personal repository containing my solutions to various algorithmic problems. T
 | 23 | [Number of Connected Components](./graphs/number_of_connected_components/solution.py) | graphs | medium | 2026-04-22 23:44:47 |
 | 24 | [Redundant Connection](./graphs/redundant_connection/solution.py) | graphs | medium | 2026-04-23 01:31:20 |
 | 25 | [Word Ladder](./graphs/word_ladder/solution.py) | graphs | hard | 2026-04-23 10:22:05 |
+| 26 | [Network Delay Time](./graphs/network_delay_time/solution.py) | graphs | medium | 2026-04-23 20:13:39 |
