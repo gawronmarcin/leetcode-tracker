@@ -26,3 +26,4 @@ A personal repository containing my solutions to various algorithmic problems. T
 | 22 | [Graph Valid Tree](./graphs/graph_valid_tree/solution.py) | graphs | medium | 2026-04-22 23:33:09 |
 | 23 | [Number of Connected Components](./graphs/number_of_connected_components/solution.py) | graphs | medium | 2026-04-22 23:44:47 |
 | 24 | [Redundant Connection](./graphs/redundant_connection/solution.py) | graphs | medium | 2026-04-23 01:31:20 |
+| 25 | [Word Ladder](./graphs/word_ladder/solution.py) | graphs | hard | 2026-04-23 10:22:05 |
