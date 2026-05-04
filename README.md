@@ -31,3 +31,7 @@ A personal repository containing my solutions to various algorithmic problems. T
 | 27 | [Reconstruct Flight Path](./graphs/reconstruct_flight_path/solution.py) | graphs | hard | 2026-04-24 14:22:37 |
 | 28 | [Min Cost To Connect Points](./graphs/min_cost_to_connect_points/solution.py) | graphs | medium | 2026-04-25 22:58:45 |
 | 29 | [Swim in Rising Water](./graphs/swim_in_rising_water/solution.py) | graphs | hard | 2026-04-27 12:22:48 |
+| 30 | [Climbing Stairs](./1_d_dynamic_programming/climbing_stairs/solution.py) | 1-D_Dynamic_Programming | easy | 2026-05-04 11:57:12 |
+| 31 | [Min Cost Climbing Stairs](./1_d_dynamic_programming/min_cost_climbing_stairs/solution.py) | 1-D_Dynamic_Programming | easy | 2026-05-04 11:57:25 |
+| 32 | [House Robber](./1_d_dynamic_programming/house_robber/solution.py) | 1-D_Dynamic_Programming | easy | 2026-05-04 11:57:32 |
+| 33 | [House Robber II](./1_d_dynamic_programming/house_robber_ii/solution.py) | 1-D_Dynamic_Programming | easy | 2026-05-04 11:57:36 |
