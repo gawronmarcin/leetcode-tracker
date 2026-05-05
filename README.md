@@ -35,3 +35,4 @@ A personal repository containing my solutions to various algorithmic problems. T
 | 31 | [Min Cost Climbing Stairs](./1_d_dynamic_programming/min_cost_climbing_stairs/solution.py) | 1-D_Dynamic_Programming | easy | 2026-05-04 11:57:25 |
 | 32 | [House Robber](./1_d_dynamic_programming/house_robber/solution.py) | 1-D_Dynamic_Programming | medium | 2026-05-04 11:57:32 |
 | 33 | [House Robber II](./1_d_dynamic_programming/house_robber_ii/solution.py) | 1-D_Dynamic_Programming | medium | 2026-05-04 11:57:36 |
+| 34 | [Longest Palindromic Substring](./1_d_dynamic_programming/longest_palindromic_substring/solution.py) | 1_d_dynamic_programming | medium | 2026-05-05 18:09:31 |
