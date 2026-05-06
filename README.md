@@ -36,3 +36,4 @@ A personal repository containing my solutions to various algorithmic problems. T
 | 32 | [House Robber](./1_d_dynamic_programming/house_robber/solution.py) | 1-D_Dynamic_Programming | medium | 2026-05-04 11:57:32 |
 | 33 | [House Robber II](./1_d_dynamic_programming/house_robber_ii/solution.py) | 1-D_Dynamic_Programming | medium | 2026-05-04 11:57:36 |
 | 34 | [Longest Palindromic Substring](./1_d_dynamic_programming/longest_palindromic_substring/solution.py) | 1_d_dynamic_programming | medium | 2026-05-05 18:09:31 |
+| 35 | [Palindromic Substrings](./1_d_dynamic_programming/palindromic_substrings/solution.py) | 1_D_dynamic_programming | medium | 2026-05-06 11:51:28 |
