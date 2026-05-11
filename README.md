@@ -41,3 +41,4 @@ A personal repository containing my solutions to various algorithmic problems. T
 | 37 | [Coin Change](./1_d_dynamic_programming/coin_change/solution.py) | 1_D_dynamic_programming | medium | 2026-05-08 17:21:58 |
 | 38 | [Maximum Product Subarray](./1_d_dynamic_programming/maximum_product_subarray/solution.py) | 1_D_dynamic_programming | medium | 2026-05-10 12:03:34 |
 | 39 | [Word Break](./1_d_dynamic_programming/word_break/solution.py) | 1_D_dynamic_programming | medium | 2026-05-10 16:58:48 |
+| 40 | [Longest Increasing Subsequence](./1_d_dynamic_programming/longest_increasing_subsequence/solution.py) | 1_D_dynamic_programming | medium | 2026-05-11 11:16:18 |
