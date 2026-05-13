@@ -42,3 +42,7 @@ A personal repository containing my solutions to various algorithmic problems. T
 | 38 | [Maximum Product Subarray](./1_d_dynamic_programming/maximum_product_subarray/solution.py) | 1_D_dynamic_programming | medium | 2026-05-10 12:03:34 |
 | 39 | [Word Break](./1_d_dynamic_programming/word_break/solution.py) | 1_D_dynamic_programming | medium | 2026-05-10 16:58:48 |
 | 40 | [Longest Increasing Subsequence](./1_d_dynamic_programming/longest_increasing_subsequence/solution.py) | 1_D_dynamic_programming | medium | 2026-05-11 11:16:18 |
+| 41 | [Partition Equal Subset Sum](./1_d_dynamic_programming/partition_equal_subset_sum/solution.py) | 1_D_dynamic_programming | medium | 2026-05-12 15:13:27 |
+| 42 | [Unique Paths](./2_d_dynamic_programming/unique_paths/solution.py) | 2_D_dynamic_programming | medium | 2026-05-13 09:40:31 |
+| 43 | [6. Rug](./agh_algorithms_data_structures_offline_tasks/6._rug/solution.py) | agh_algorithms_data_structures_offline_tasks | medium | 2026-05-13 10:59:58 |
+| 44 | [5. Airplanes](./agh_algorithms_data_structures_offline_tasks/5._airplanes/solution.py) | agh_algorithms_data_structures_offline_tasks | medium | 2026-05-13 11:02:38 |
