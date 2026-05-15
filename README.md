@@ -47,3 +47,4 @@ A personal repository containing my solutions to various algorithmic problems. T
 | 43 | [6. Rug](./agh_algorithms_data_structures_offline_tasks/6._rug/solution.py) | agh_algorithms_data_structures_offline_tasks | medium | 2026-05-13 10:59:58 |
 | 44 | [5. Airplanes](./agh_algorithms_data_structures_offline_tasks/5._airplanes/solution.py) | agh_algorithms_data_structures_offline_tasks | medium | 2026-05-13 11:02:38 |
 | 45 | [Longest Common Subsequence](./2_d_dynamic_programming/longest_common_subsequence/solution.py) | 2_D_dynamic_programming | medium | 2026-05-14 20:37:09 |
+| 46 | [Best Time to Buy and Sell Stock With Cooldown](./2_d_dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown/solution.py) | 2_D_dynamic_programming | medium | 2026-05-15 18:52:38 |
