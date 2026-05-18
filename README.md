@@ -50,3 +50,4 @@ A personal repository containing my solutions to various algorithmic problems. T
 | 46 | [Best Time to Buy and Sell Stock With Cooldown](./2_d_dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown/solution.py) | 2_D_dynamic_programming | medium | 2026-05-15 18:52:38 |
 | 47 | [Coin Change II](./2_d_dynamic_programming/coin_change_ii/solution.py) | 2_D_dynamic_programming | medium | 2026-05-16 18:19:38 |
 | 48 | [Target sum](./2_d_dynamic_programming/target_sum/solution.py) | 2_D_dynamic_programming | medium | 2026-05-17 16:23:02 |
+| 49 | [Maximum Subarray](./greedy/maximum_subarray/solution.py) | Greedy | medium | 2026-05-18 11:01:55 |
