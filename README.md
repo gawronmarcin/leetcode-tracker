@@ -51,3 +51,4 @@ A personal repository containing my solutions to various algorithmic problems. T
 | 47 | [Coin Change II](./2_d_dynamic_programming/coin_change_ii/solution.py) | 2_D_dynamic_programming | medium | 2026-05-16 18:19:38 |
 | 48 | [Target sum](./2_d_dynamic_programming/target_sum/solution.py) | 2_D_dynamic_programming | medium | 2026-05-17 16:23:02 |
 | 49 | [Maximum Subarray](./greedy/maximum_subarray/solution.py) | Greedy | medium | 2026-05-18 11:01:55 |
+| 50 | [Interleaving String](./2_d_dynamic_programming/interleaving_string/solution.py) | 2_D_dynamic_programming | medium | 2026-05-19 17:50:27 |
