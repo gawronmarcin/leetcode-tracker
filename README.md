@@ -54,4 +54,4 @@ A personal repository containing my solutions to various algorithmic problems. T
 | 50 | [Interleaving String](./2_d_dynamic_programming/interleaving_string/solution.py) | 2_D_dynamic_programming | medium | 2026-05-19 17:50:27 |
 | 51 | [Jump Game](./greedy/jump_game/solution.py) | Greedy | medium | 2026-05-20 19:24:19 |
 | 52 | [Longest Increasing Path in Matrix](./2_d_dynamic_programming/longest_increasing_path_in_matrix/solution.py) | 2_D_dynamic_programming | hard | 2026-05-21 20:38:49 |
-| 53 | [Jump Game II](./greedy/jump_game_ii/solution.py) | Greedy | medium | 2026-05-22 16:45:13 |
+| 53 | [Jump Game II](./greedy/jump_game_ii/solution.py) | Greedy | medium | 2026-05-22 16:52:56 |
