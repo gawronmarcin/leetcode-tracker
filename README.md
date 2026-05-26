@@ -55,3 +55,7 @@ A personal repository containing my solutions to various algorithmic problems. T
 | 51 | [Jump Game](./greedy/jump_game/solution.py) | Greedy | medium | 2026-05-20 19:24:19 |
 | 52 | [Longest Increasing Path in Matrix](./2_d_dynamic_programming/longest_increasing_path_in_matrix/solution.py) | 2_D_dynamic_programming | hard | 2026-05-21 20:38:49 |
 | 53 | [Jump Game II](./greedy/jump_game_ii/solution.py) | Greedy | medium | 2026-05-22 17:17:10 |
+| 54 | [Gas Station](./greedy/gas_station/solution.py) | Greedy | medium | 2026-05-26 21:03:50 |
+| 55 | [Distinct Subsequences](./2_d_dynamic_programming/distinct_subsequences/solution.py) | 2_D_dynamic_programming | hard | 2026-05-26 22:02:40 |
+| 56 | [Hand of Straights](./greedy/hand_of_straights/solution.py) | Greedy | medium | 2026-05-27 00:19:35 |
+| 57 | [Edit Distance](./2_d_dynamic_programming/edit_distance/solution.py) | 2_D_dynamic_programming | medium | 2026-05-27 01:25:30 |
