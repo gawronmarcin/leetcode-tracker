@@ -61,3 +61,5 @@ A personal repository containing my solutions to various algorithmic problems. T
 | 57 | [Edit Distance](./2_d_dynamic_programming/edit_distance/solution.py) | 2_D_dynamic_programming | medium | 2026-05-27 01:25:30 |
 | 58 | [Merge Triplets to Form Target](./greedy/merge_triplets_to_form_target/solution.py) | Greedy | medium | 2026-05-27 12:29:03 |
 | 59 | [Burst Balloons](./2_d_dynamic_programming/burst_balloons/solution.py) | 2_D_dynamic_programming | hard | 2026-05-28 16:01:32 |
+| 60 | [Partition Labels](./greedy/partition_labels/solution.py) | Greedy | medium | 2026-06-01 23:40:03 |
+| 61 | [Regular Expression Matching](./2_d_dynamic_programming/regular_expression_matching/solution.py) | 2_D_dynamic_programming | hard | 2026-06-02 12:12:04 |
