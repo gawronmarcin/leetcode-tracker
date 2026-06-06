@@ -64,3 +64,4 @@ A personal repository containing my solutions to various algorithmic problems. T
 | 60 | [Partition Labels](./greedy/partition_labels/solution.py) | Greedy | medium | 2026-06-01 23:40:03 |
 | 61 | [Regular Expression Matching](./2_d_dynamic_programming/regular_expression_matching/solution.py) | 2_D_dynamic_programming | hard | 2026-06-02 12:12:04 |
 | 62 | [Valid Parenthesis String](./greedy/valid_parenthesis_string/solution.py) | greedy | medium | 2026-06-03 15:46:17 |
+| 63 | [8. Frog](./agh_algorithms_data_structures_offline_tasks/8._frog/solution.py) | agh_algorithms_data_structures_offline_tasks | medium | 2026-06-06 11:30:22 |
